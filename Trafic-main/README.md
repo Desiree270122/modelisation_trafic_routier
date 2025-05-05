@@ -90,3 +90,4 @@ Les résultats ci-dessus comparent les performances des modèles **CNN+LSTM** et
 Ces résultats montrent que l'architecture **Transformer** est mieux adaptée pour prédire les séries temporelles dans ce projet, grâce à sa capacité à capturer efficacement les relations complexes dans les données.
 
 ---
+# HABACK Marthe Désirée Olivia
